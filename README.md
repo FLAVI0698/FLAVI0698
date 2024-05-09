@@ -4,7 +4,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLAVI0698&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 <P>
-  Sou iniciante e estou na busca para uma transição de carreira, estou prendendo HTML, CSS, JS, porém não irei para por ai, busco sempre conhecimento, e meu foco aprender mais e mais.
+  estou iniciando e estou na busca para uma transição de carreira, estou prendendo HTML, CSS, JS, porém não irei para por ai, busco sempre conhecimento, e meu foco aprender mais e mais.
 </P>
 <ul>
   <li>Faculdade de ADS.</li>
